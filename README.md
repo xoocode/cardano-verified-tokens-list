@@ -1,1 +1,1 @@
-# cardano-tokens-list
+# cardano-verified-tokens-list
