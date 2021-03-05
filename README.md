@@ -11,8 +11,8 @@ See [list.json](list.json) for working example
 
 ``` JS
 {
-  "policyId": "",  // String:: policy identifier
-  "name": "",      // String:: name
+  "policyId": "",     // String:: policy identifier
+  "name": "",         // String:: name
   "homepage": "",     // String:: homepage 
   "mintedAt": 0,      // Int:: milliseconds since epoch
   "addedAt": 0        // Int:: milliseconds since epoch
