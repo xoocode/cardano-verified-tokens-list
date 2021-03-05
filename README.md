@@ -7,10 +7,12 @@
 
 # token object
 
+See [list.json](list.json) for working example
+
 ``` JS
 {
-  "policyId": "TBD",  // String:: policy identifier
-  "name": "RAY",      // String:: name
+  "policyId": "",  // String:: policy identifier
+  "name": "",      // String:: name
   "homepage": "",     // String:: homepage 
   "mintedAt": 0,      // Int:: milliseconds since epoch
   "addedAt": 0        // Int:: milliseconds since epoch
