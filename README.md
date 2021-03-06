@@ -1,6 +1,7 @@
 # Contribution Guidelines
 
 **To add to the list:** Submit a pull request
+
 **To remove from the list:** Open an issue
 
 # Contribution Guidelines
