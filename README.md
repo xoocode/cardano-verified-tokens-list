@@ -5,7 +5,7 @@
 **To remove from the list:** Open an issue
 
 
-#### Adding in the list (PR Guideline)
+## Adding in the list (PR Guideline)
 
 - Follow token specs structure
 - List items should be added to the end of list
