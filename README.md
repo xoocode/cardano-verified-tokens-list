@@ -18,7 +18,7 @@ See [list.json](list.json) for working example
 
 ``` JS
 {
-    "fingerpring": "",
+    "fingerprint": "",
     "name": "",
     "ticker": "",
     "homepage": "",

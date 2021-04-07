@@ -1,13 +1,13 @@
 [
   {
-    "fingerpring": "ada",
+    "fingerprint": "ada",
     "name": "ADA",
     "ticker": "ADA",
     "homepage": "https://cardano.org",
     "description": "ADA"
   },
   {
-    "fingerpring": "asset1cvmyrfrc7lpht2hcjwr9lulzyyjv27uxh3kcz0",
+    "fingerprint": "asset1cvmyrfrc7lpht2hcjwr9lulzyyjv27uxh3kcz0",
     "name": "Testcoin",
     "ticker": "TEST",
     "homepage": "https://developers.cardano.org",
