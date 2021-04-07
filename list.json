@@ -1,9 +1,16 @@
 [
   {
-    "policyId": "lovelace",
+    "fingerpring": "ada",
     "name": "ADA",
+    "ticker": "ADA",
     "homepage": "https://cardano.org",
-    "mintedAt": 1506203091000,
-    "addedAt": 1614941710616
+    "description": "ADA"
+  },
+  {
+    "fingerpring": "asset1cvmyrfrc7lpht2hcjwr9lulzyyjv27uxh3kcz0",
+    "name": "Testcoin",
+    "ticker": "TEST",
+    "homepage": "https://developers.cardano.org",
+    "description": "Testcoin crypto powered by Cardano testnet."
   }
 ]

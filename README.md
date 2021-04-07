@@ -9,7 +9,8 @@
 
 - Follow token specs structure
 - List items should be added to the end of list
-- Images should be added to `logo` folder
+- Optimize logo with https://kraken.io/web-interface
+- Logo should be added to `logo` folder (fingerprint_id.jpg name, JPG 256x256px)
 
 ## Token specs
 
@@ -17,11 +18,11 @@ See [list.json](list.json) for working example
 
 ``` JS
 {
-  "policyId": "",     // String:: policy identifier
-  "name": "",         // String:: name
-  "homepage": "",     // String:: homepage 
-  "mintedAt": 0,      // Int:: milliseconds since epoch
-  "addedAt": 0        // Int:: milliseconds since epoch
+    "fingerpring": "",
+    "name": "",
+    "ticker": "",
+    "homepage": "",
+    "description": ""
 }
 ```
 
