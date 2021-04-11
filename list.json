@@ -5,12 +5,5 @@
     "ticker": "ADA",
     "homepage": "https://cardano.org",
     "description": "ADA"
-  },
-  {
-    "fingerprint": "asset1cvmyrfrc7lpht2hcjwr9lulzyyjv27uxh3kcz0",
-    "name": "Testcoin",
-    "ticker": "TEST",
-    "homepage": "https://developers.cardano.org",
-    "description": "Testcoin crypto powered by Cardano testnet."
   }
 ]
