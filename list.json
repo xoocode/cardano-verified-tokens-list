@@ -5,5 +5,12 @@
     "ticker": "ADA",
     "homepage": "https://cardano.org",
     "description": "ADA"
+  },
+  {
+    "fingerprint": "asset1ray",
+    "name": "RAY Token",
+    "ticker": "RAY",
+    "homepage": "https://rraayy.com",
+    "description": "RAY Network is an advanced ecosystem for the Cardano blockchain platform. All about ADA finances (DeFi) in one place."
   }
 ]
