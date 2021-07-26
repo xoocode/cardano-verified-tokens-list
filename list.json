@@ -12,5 +12,12 @@
     "ticker": "XRAY",
     "homepage": "https://rraayy.com",
     "description": "RAay Network is an advanced ecosystem for the Cardano blockchain platform. All about ADA finances (DeFi) in one place."
+  },
+  {
+    "fingerprint": "asset1k3zkpw8lk6009qr5zshxeuewe0n0c9we6gg9ed",
+    "name": "ADAX",
+    "ticker": "ADAX",
+    "homepage": "https://adax.pro",
+    "description": "ADAX is a state of the Art Decentralized Exchange Protocol for the Cardano blockchain."
   }
 ]
