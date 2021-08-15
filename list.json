@@ -11,7 +11,14 @@
     "name": "Ray Token",
     "ticker": "XRAY",
     "homepage": "https://rraayy.com",
-    "description": "RAay Network is an advanced ecosystem for the Cardano blockchain platform. All about ADA finances (DeFi) in one place."
+    "description": "Ray Network is an advanced ecosystem for the Cardano blockchain platform. All about ADA finances (DeFi) in one place."
+  },
+  {
+    "fingerprint": "asset1y7lphaaxkvjw5hl2kpq37nvlvg09qfqsh4qyme",
+    "name": "Ray Diamond",
+    "ticker": "XDIAMOND",
+    "homepage": "https://rraayy.com/xray/xdiamond/",
+    "description": "Cardano collectible NFT token for marketing and community incentives. You can get it for participation in marketing activities and giveaways. Can be redeemed for an XRAY!"
   },
   {
     "fingerprint": "asset1k3zkpw8lk6009qr5zshxeuewe0n0c9we6gg9ed",
