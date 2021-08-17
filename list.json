@@ -33,5 +33,12 @@
     "ticker": "KICK",
     "homepage": "https://kick.io/",
     "description": "Kick.io is a Cardano-based fundraising platform and a project accelerator, designed to leverage DeFi innovations."
+  },
+  {
+    "fingerprint": "asset1n8h5zakfkfw3ezahu7j5lzzjj04rt8jrnxr4jm",
+    "name": "VyFi",
+    "ticker": "VyFi",
+    "homepage": "https://www.vyfi.io/",
+    "description": "VyFi is a DeFi platform on Cardano offering lending, yield farms, liquidity pools and auto-harvisting."
   }
 ]
