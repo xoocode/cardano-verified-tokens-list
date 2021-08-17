@@ -26,5 +26,12 @@
     "ticker": "ADAX",
     "homepage": "https://adax.pro",
     "description": "ADAX is a state of the Art Decentralized Exchange Protocol for the Cardano blockchain."
+  },
+  {
+    "fingerprint": "asset1d6vxhprwjgsx2m7psytv26e8s9xuxducf7nlsw",
+    "name": "KICK",
+    "ticker": "KICK",
+    "homepage": "https://kick.io/",
+    "description": "Kick.io is a Cardano-based fundraising platform and a project accelerator, designed to leverage DeFi innovations."
   }
 ]
