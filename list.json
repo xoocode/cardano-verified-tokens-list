@@ -33,5 +33,19 @@
     "ticker": "HARD",
     "homepage": "https://hard.blue",
     "description": "Real hard money on the Cardano blockchain. Scalable system for payments and value transfer between people with low fees."
+  },
+  {
+    "fingerprint": "asset1d6vxhprwjgsx2m7psytv26e8s9xuxducf7nlsw",
+    "name": "KICK",
+    "ticker": "KICK",
+    "homepage": "https://kick.io/",
+    "description": "Kick.io is a Cardano-based fundraising platform and a project accelerator, designed to leverage DeFi innovations."
+  },
+  {
+    "fingerprint": "asset1n8h5zakfkfw3ezahu7j5lzzjj04rt8jrnxr4jm",
+    "name": "VyFi",
+    "ticker": "VyFi",
+    "homepage": "https://www.vyfi.io/",
+    "description": "VyFi is a DeFi platform on Cardano offering lending, yield farms, liquidity pools and auto-harvisting."
   }
 ]
