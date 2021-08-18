@@ -28,6 +28,13 @@
     "description": "ADAX is a state of the Art Decentralized Exchange Protocol for the Cardano blockchain."
   },
   {
+    "fingerprint": "asset1rqq07e6cqjlha9x5xdcjlty3y7pd6jll8f9ms5",
+    "name": "Hard Blue",
+    "ticker": "HARD",
+    "homepage": "https://hard.blue",
+    "description": "Real hard money on the Cardano blockchain. Scalable system for payments and value transfer between people with low fees."
+  },
+  {
     "fingerprint": "asset1d6vxhprwjgsx2m7psytv26e8s9xuxducf7nlsw",
     "name": "KICK",
     "ticker": "KICK",
